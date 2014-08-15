@@ -22,7 +22,7 @@ CLOUDFILES_USERNAME=my_rackspace_username
 CLOUDFILES_API_KEY=my_rackspace_api_key
 CLOUDFILES_CONTAINER=my_cloudfiles_container
 
-DROPBOX_DIR=~/Dropbox/Public/
+DROPBOX_DIR=~/Dropbox/Public/blogs/blog.coderdojo.lu
 
 GITHUB_PAGES_BRANCH=gh-pages
 
@@ -31,7 +31,7 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-help: ssh
+help: rsync_upload
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
@@ -88,7 +88,7 @@ ssh: publish
 	scp -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -e "ssh" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+	rsync -e "ssh" -P -rvc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
