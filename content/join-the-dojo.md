@@ -1,6 +1,6 @@
 Title: Join us at the CoderDojo
 Date: 2015-03-14 18:56
-Modified: 2015-03-14 18:56
+Modified: 2015-03-15 18:56
 Category: join
 Tags: join, incentive
 Slug: join-the-coderdojo
@@ -13,7 +13,7 @@ Summary: :yin_yang: CoderDojo Luxembourg let the coding gain momentum
 
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank">tl;dr</a>:
 
-CoderDojo Luxembourg is for 9 to 18 year olds who want to discover the wonderous worlds of coding, technologies and more.
+CoderDojo Luxembourg is for 9 to 18 year olds who want to discover the wondrous worlds of coding, technologies and more.
 
 We meet every Thursday (holidays included, code doesn't compute that concept) from 18:00 to 20:00 (or later for people who want to stay until their bus comes)
 
