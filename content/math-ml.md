@@ -1,6 +1,6 @@
 Title: MathML? Good Idea :)
 Date: 2014-08-22 07:20
-Modified: 2014-08-22 07:21
+Modified: 2015-03-03 16:03
 Category: math
 Tags: math, web, html, markup, mathml, xml
 Slug: math-ml
@@ -72,7 +72,6 @@ See the above, this is all MathML Magic and when we take a look at the source, p
   </mrow>
 </math>
 ```
-
 
 Yeah, quite complex, let us take the amazing <a href="https://en.wikipedia.org/wiki/Pythagorean_theorem">Pythagorean theorem</a>:
 

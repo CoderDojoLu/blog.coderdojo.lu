@@ -10,11 +10,19 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" />	
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/emojify.min.css" type="text/css" />
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
     <script src="{{ SITEURL }}/theme/js/custom.modernizr.js"></script>
     <script src="{{ SITEURL }}/theme/js/emojify.js"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.fitvids.js"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $("#thing-with-videos").fitVids();
+  });
+</script>
 </head>
 
 <body>
@@ -24,7 +32,7 @@
 <div class="top-bar">
 <div class="row">
     <div class="large-9 large-centered columns">
-	    <h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+	    <h1><img src="/images/yinYang-white-44.png"><a href=" {{ SITEURL }}">{{ SITENAME }}(xembourg)</a></h1>
     </div>
 </div>
 </div>
