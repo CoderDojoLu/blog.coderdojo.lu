@@ -2,7 +2,7 @@
 {% if article.translations %}
 Translations: 
     {% for translation in article.translations %}
-        <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+    <img class="emoji" src="{{ SITEURL }}/images/emoji/{{ translation.lang }}.png"> <a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a> </img>
     {% endfor %}
 {% endif %}
 {% endmacro %}
