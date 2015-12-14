@@ -9,7 +9,7 @@ Author: Steve Clement
 Email: steve@localhost.lu
 Summary: :yin_yang: CoderDojo Luxembourg, soyons créatifs ensemble.
 
-# CoderDojo Luxembourg est le seul Code Club au Luxembourg où tout le monde peut apprendre à programmer un ordinateur… gratuitement
+# CoderDojo Luxembourg est le seul Coding Club au Luxembourg où tout le monde peut apprendre à programmer un ordinateur de 6h à 8h du soir, gratuitement, chaque semaine
 
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank">tl;dr</a>:
 

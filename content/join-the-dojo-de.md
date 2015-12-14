@@ -9,7 +9,7 @@ Author: Steve Clement
 Email: steve@localhost.lu
 Summary: :yin_yang: CoderDojo Luxemburg lässt die Programmierwelt krachen
 
-# CoderDojo Luxemburg ist die einzige Initiative wo Sie Gratis Programmieren lernen können
+# CoderDojo Luxemburg ist die einzige Initiative wo Sie Gratis Programmieren lernen können, Abends von 6 bis 8 Uhr, jede Woche
 
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank">tl;dr</a>:
 

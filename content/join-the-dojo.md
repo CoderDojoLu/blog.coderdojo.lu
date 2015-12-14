@@ -9,7 +9,7 @@ Author: Steve Clement
 Email: steve@localhost.lu
 Summary: :yin_yang: CoderDojo Luxembourg let the coding gain momentum
 
-# CoderDojo Luxembourg the only place in Luxembourg where you can learn to code… for free
+# CoderDojo Luxembourg the only place in Luxembourg where you can learn to code from 6pm to 8pm for free every Week
 
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank">tl;dr</a>:
 
@@ -26,7 +26,7 @@ The Dojo is an open ended effort and ultimately every participant will create he
 
 There will be no restrictions on prior knowledge for the participants. Bring your curiosity to discover the awesome and let us be awesome together.
 
-You can bring your own laptop, enabling you to continue at home. But most people use the laptops provided at the dojo and move their code either with a USB Stick or via <a href="https://github.com" target="_blank">github</a>
+You can bring your own laptop, enabling you to continue at home. But most people use the laptops provided at the Dojo and move their code either with a USB Stick or via <a href="https://github.com" target="_blank">github</a>
 
 Parents are welcome in our chill area where they can read and wait for the Dojo participants to finish their Ninja moves on the keyboards.
 

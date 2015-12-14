@@ -9,7 +9,7 @@ Author: Steve Clement
 Email: steve@localhost.lu
 Summary: :yin_yang: CoderDojo Lëtzebuerg wéisst der wéi s de dengem Computer sees wat en wierklech soll maachen
 
-# CoderDojo Lëtzebuerg ass déi eenzeg Initiativ wou s de Gratis Programméiere kanns léieren
+# CoderDojo Lëtzebuerg ass déi eenzeg Initiativ wou s de Gratis Programméiere kanns léieren vun 6 Owes bis 8 an dat all Woch
 
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank">tl;dr</a>:
 
