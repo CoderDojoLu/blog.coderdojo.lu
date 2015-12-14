@@ -1,6 +1,6 @@
 Title: Pop-up CoderDojo @ eSkills 4 Jobs
 Date: 2015-12-03 07:56
-Modified: 2014-12-03 11:00
+Modified: 2015-12-14 11:00
 Category: popup
 Tags: eskills4jobs, eskills, popup
 Slug: coderdojo-at-eskills4jobs
@@ -14,7 +14,7 @@ Summary: :yin_yang: CoderDojo Luxembourg will host a Pop-up Session at eSkills4J
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank">tl;dr</a>:
 
 CoderDojo Luxembourg will be present on the <a href="http://eskills4jobs.lu" target=_blank>eSkills4Jobs</a> event on the 15th of December.
-We will start at 13:00 and it will last approximately until 14:30
+We will start at 12:30 and it will last approximately until 14:00 and are graciously supported by <a href="https://hack4kids.lu/" target="_blank">Hack4Kids</a>
 
 # Long Version
 
@@ -22,7 +22,9 @@ CoderDojo Luxembourg is a Code Club Luxembourg project driven by volunteers to t
 
 For the past year a steady group of 15-20 Kids has gathered in the heart of Luxembourg-City every Thursday no matter the weather.
 
-**On** the 15th of December 2015 we will have a spontaneous Pop-up CoderDojo at the eSkills4Jobs conference from 13:00 to 14:30 in Dommeldange at the Parc Hotel Alvisse.
+**On** the 15th of December 2015 we will have a spontaneous Pop-up CoderDojo at the eSkills4Jobs conference from 12:30 to 14:00 in Dommeldange at the Parc Hotel Alvisse.
+
+You can join us earlier to share a delicious lunch.
 
 The exact address is:
 ```
