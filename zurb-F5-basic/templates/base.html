@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/emojify.min.css" type="text/css" />
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
     <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
     <script src="{{ SITEURL }}/theme/js/vendor/custom.modernizr.js"></script>
     <script src="{{ SITEURL }}/theme/js/emojify.js"></script>
@@ -81,12 +81,12 @@
             {% endif %}
         </ul>
 
-        {% if categories %}		
+        {% if categories %}
         <h5 class="sidebar-title">Categories</h5>
         <ul class="side-nav">
         {% for cat, null in categories %}
             <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-        {% endfor %}   
+        {% endfor %}
         </ul>
         {% endif %}
 
@@ -98,7 +98,7 @@
         {% endfor %}
         </ul>
         {% endif %}
-		
+
         {% if SOCIAL %}
         <h5 class="sidebar-title">Social</h5>
         <ul class="side-nav">
