@@ -9,17 +9,14 @@ SITEURL = 'http://blog.coderdojo.lu'
 PLUGIN_PATHS = ["plugins", "/Volumes/3TB/GoogleDrive/Desktop/code/pelican-plugins"]
 PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "pdf", "render_math"]
 
-#THEME = "/Users/steve/pelican-themes/tuxlite_tbs"
-#THEME = "zurb-F5-basic"
-THEME = "/Volumes/3TB/GoogleDrive/Desktop/code/pelican-themes/zurb-F5-basic"
+# Make sure to use the zurb-F5-basic theme in THIS directory, it has emoji and video support
+THEME = "zurb-F5-basic"
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Luxembourg'
 
 DEFAULT_LANG = u'en'
-
-DATE_FORMATS = { 'en': '%B %d, %Y', }
 
 SITEMAP = {
         'format': 'xml',
@@ -41,17 +38,22 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('CodeClubLu', 'http://codeclub.lu/'),)
+LINKS = (('CodeClubLu', 'http://codeclub.lu/'),
+        ('CoderDojo Foundation','http://coderdojo.org'),)
 
 # Social widget
-SOCIAL = (('CoderDojo on TW', 'https://twitter.com/CoderDojoLu'),
-         ('CoderDojo on FB','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128'),
-         ('CodeClubLu on TW','https://twitter.com/CodeClubLux'),
-         ('CodeClubLu on FB','https://www.facebook.com/codeclub.lu'),)
-#SOCIAL = (('twitter-square', 'https://twitter.com/CoderDojoLu','CoderDojo on TW'),
-#         ('facebook-square','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128', 'CoderDojo on FB'),
-#         ('twitter-square','https://twitter.com/CodeClubLux', 'CodeClub on TW'),
-#         ('facebook-square','https://www.facebook.com/codeclub.lu', 'CodeClub on FB'),)
+
+# Use this with standard themes
+#SOCIAL = (('CoderDojo on TW', 'https://twitter.com/CoderDojoLu'),
+#         ('CoderDojo on FB','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128'),
+#         ('CodeClubLu on TW','https://twitter.com/CodeClubLux'),
+#         ('CodeClubLu on FB','https://www.facebook.com/codeclub.lu'),)
+
+# This will add a social icon as an addition
+SOCIAL = (('twitter-square', 'https://twitter.com/CoderDojoLu','CoderDojo on TW'),
+         ('facebook-square','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128', 'CoderDojo on FB'),
+         ('twitter-square','https://twitter.com/CodeClubLux', 'CodeClub on TW'),
+         ('facebook-square','https://www.facebook.com/codeclub.lu', 'CodeClub on FB'),)
 
 DEFAULT_PAGINATION = 10
 
