@@ -6,17 +6,20 @@ AUTHOR = u'CodeClubLu'
 SITENAME = u'CoderDojoLu'
 SITEURL = 'http://blog.coderdojo.lu'
 
-PLUGIN_PATHS = ["plugins", "/Users/steve/Desktop/code/pelican-plugins"]
+PLUGIN_PATHS = ["plugins", "/Volumes/3TB/GoogleDrive/Desktop/code/pelican-plugins"]
 PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "pdf", "render_math"]
 
 #THEME = "/Users/steve/pelican-themes/tuxlite_tbs"
-THEME = "zurb-F5-basic"
+#THEME = "zurb-F5-basic"
+THEME = "/Volumes/3TB/GoogleDrive/Desktop/code/pelican-themes/zurb-F5-basic"
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Luxembourg'
 
 DEFAULT_LANG = u'en'
+
+DATE_FORMATS = { 'en': '%B %d, %Y', }
 
 SITEMAP = {
         'format': 'xml',
@@ -41,14 +44,14 @@ TRANSLATION_FEED_ATOM = None
 LINKS = (('CodeClubLu', 'http://codeclub.lu/'),)
 
 # Social widget
-#SOCIAL = (('CoderDojo on TW', 'https://twitter.com/CoderDojoLu'),
-#         ('CoderDojo on FB','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128'),
-#         ('CodeClubLu on TW','https://twitter.com/CodeClubLux'),
-#         ('CodeClubLu on FB','https://www.facebook.com/codeclub.lu'),)
-SOCIAL = (('twitter-square', 'https://twitter.com/CoderDojoLu','CoderDojo on TW'),
-         ('facebook-square','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128', 'CoderDojo on FB'),
-         ('twitter-square','https://twitter.com/CodeClubLux', 'CodeClub on TW'),
-         ('facebook-square','https://www.facebook.com/codeclub.lu', 'CodeClub on FB'),)
+SOCIAL = (('CoderDojo on TW', 'https://twitter.com/CoderDojoLu'),
+         ('CoderDojo on FB','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128'),
+         ('CodeClubLu on TW','https://twitter.com/CodeClubLux'),
+         ('CodeClubLu on FB','https://www.facebook.com/codeclub.lu'),)
+#SOCIAL = (('twitter-square', 'https://twitter.com/CoderDojoLu','CoderDojo on TW'),
+#         ('facebook-square','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128', 'CoderDojo on FB'),
+#         ('twitter-square','https://twitter.com/CodeClubLux', 'CodeClub on TW'),
+#         ('facebook-square','https://www.facebook.com/codeclub.lu', 'CodeClub on FB'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -59,12 +62,12 @@ TWITTER_USERNAME='CoderDojoLu'
 
 DISPLAY_PAGES_ON_MENU = "True"
 
-DEFAULT_CATEGORY = ('Articles')
+DEFAULT_CATEGORY = ('welcome')
 
 MD_EXTENSIONS = ['codehilite','extra']
 MARKUP = ('md')
 
-COPYRIGHT = 'Public Domain, 2014'
+COPYRIGHT = 'Public Domain, 2015'
 #LOGOTEXT = 'Hack4Kids'
 #LOGOIMAGE = '/images/Logo_Hack4Kids_2014_v3.gif'
 #PROFILE_IMAGE_URL = '/images/Logo_Hack4Kids_2014_v3.gif'
