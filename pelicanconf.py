@@ -17,6 +17,11 @@ PATH = 'content'
 TIMEZONE = 'Europe/Luxembourg'
 
 DEFAULT_LANG = u'en'
+DEFAULT_DATE = 'fs'
+
+TYPOGRIFY = True
+DELETE_OUTPUT_DIRECTORY = True
+PDF_GENERATOR = True
 
 SITEMAP = {
         'format': 'xml',
