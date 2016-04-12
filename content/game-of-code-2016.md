@@ -21,7 +21,7 @@ The <a href="https://en.wikipedia.org/wiki/Hackathon" target="_blank">Hackathon<
 
 Team CoderDojo Luxembourg consisted of **Daria**, **Henri** and **Linnea** and they chose the open-data challenge to develop a Mobile Application to help Dog owners find the Dog-waste disposal bags in and around the City of Luxembourg more easily.
 
-During 24 hours, with a short 8 hour bed-time break, the Team came up with the <a href="http://Pick-a-Poop.dog" target="_blank">Pick-a-Poop.dog</a> Website.
+During 24 hours, with a short 6 hour bed-time break, the Team came up with the <a href="http://Pick-a-Poop.dog" target="_blank">Pick-a-Poop.dog</a> Website.
 
 Whilst the project is not 100% finished and many features will be added soon, the essence of the project has been understood and appreciated by the jury ranking them 4th in a pool of 22 international and mostly professional, developers.
 
@@ -29,9 +29,9 @@ This rank awarded them a special mention by the organizers plus a gift-card whic
 
 # Team
 
-**Daria** is of Bulgarian descendence and really enjoys the JavaScript programming language as well as design.
-**Henri** is of Finnish descendence and when he is not programming the Nao robot to support the pick-a-poop.dog project, he makes sure that the code gets fixed and solutions to technical challenges get found.
-**Linnea** is of Swedish descendence and is not afraid to speak in front of a large audience after having programmed an entire weekend HTML and adapted CSS templates.
+**Daria** is of Bulgarian origin and really enjoys the JavaScript programming language as well as design.
+**Henri** is of Finnish origin and when he is not programming the Nao robot to support the <a href="https://pick-a-poop.dog" target="_blank">pick-a-poop.dog</a> project, he makes sure that the code gets fixed and solutions to technical challenges get found.
+**Linnea** is of Swedish/Irish origin and is not afraid to speak in front of a large audience after having programmed an entire weekend HTML and adapted CSS templates.
 
 # Full Disclosure
 
