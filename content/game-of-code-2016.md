@@ -1,6 +1,6 @@
 Title: Team CoderDojo ranks 4th @ Game of Code 2016
 Date: 2016-04-11 10:56
-Modified: 2016-04-11 10:59
+Modified: 2016-04-12 10:59
 Category: hackathon
 Tags: docler, opendata, hackathon, gameofcode
 Slug: coderdojo-at-gameofcode
@@ -11,7 +11,7 @@ Summary: :yin_yang: CoderDojo Luxembourg had a team participating at the 2016 ed
 
 # Brief
 
-Three 12-13 year old CoderDojo.lu programmers reach the 4th place (out of 22 international competitors) in the #OpenData challenge at the first <a href="http://gameofcode.eu" target="_blank">Game of Code</a> event in Luxembourg.
+Three 12-13 year old CoderDojo programmers reach the 4th place (out of 22 international competitors) in the #OpenData challenge at the first <a href="http://gameofcode.eu" target="_blank">Game of Code</a> event in Luxembourg.
 
 # Details
 
