@@ -31,7 +31,7 @@ This rank awarded them a special mention by the organizers plus a gift-card whic
 
 **Daria** is of Bulgarian origin and really enjoys the JavaScript programming language as well as design.
 
-**Henri** is of Finnish origin and when he is not programming the Nao robot to support the <a href="https://pick-a-poop.dog" target="_blank">pick-a-poop.dog</a> project, he makes sure that the code gets fixed and solutions to technical challenges get found.
+**Henri** is of Finnish origin and when he is not programming the Nao robot to support the <a href="https://pick-a-poop.dog" target="_blank">pick-a-poop.dog</a> project, he makes sure that the code gets fixed and solutions to technical challenges are found.
 
 **Linnea** is of Swedish/Irish origin and is not afraid to speak in front of a large audience after having programmed an entire weekend HTML and adapted CSS templates.
 
