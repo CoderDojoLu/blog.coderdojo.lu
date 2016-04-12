@@ -1,6 +1,6 @@
 Title: D'Equipe vum CoderDojo kënnt op déi 6te Platz beim "Game of Code" 2016
 Date: 2016-04-11 10:56
-Modified: 2016-04-12 10:59
+Modified: 2016-04-12 16:19
 Category: hackathon
 Tags: docler, opendata, hackathon, gameofcode
 Slug: coderdojo-at-gameofcode
@@ -8,6 +8,9 @@ Lang: lu
 Author: Steve Clement
 Email: steve@localhost.lu
 Summary: :yin_yang: De CoderDojo Luxembourg huet mat enger Equipe vu jonke Programméierer beim "Game of Code" 2016 matgemaach
+
+<br />
+**Biller**, <a href="https://drive.google.com/open?id=0B3QByC6ZWTXsamxRYk8zcTRUQ2M" target="_blank">klickt hei</a>. Lizenz: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a>
 
 # Kuerz
 
