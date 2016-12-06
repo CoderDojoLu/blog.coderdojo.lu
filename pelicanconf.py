@@ -6,9 +6,9 @@ AUTHOR = u'CodeClubLu'
 SITENAME = u'CoderDojoLu'
 SITEURL = 'https://blog.coderdojo.lu'
 
-PLUGIN_PATHS = ["plugins", "/Users/steve//Desktop/code/pelican-plugins"]
-#PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "pdf", "render_math"]
+PLUGIN_PATHS = ["plugins", "/Users/steve/Desktop/code/pelican-plugins"]
 PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "render_math"]
+#PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "pdf", "render_math"]
 
 # Make sure to use the zurb-F5-basic theme in THIS directory, it has emoji and video support
 THEME = "zurb-F5-basic"
