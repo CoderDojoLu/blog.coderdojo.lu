@@ -49,7 +49,7 @@ pyparsing==2.0.7
 PyPDF2==1.25.1
 python-dateutil==2.5.2
 pytz==2016.3
-reportlab==3.3.0
+reportlab==3.5.55
 #rst2pdf===0.93.dev-r0
 simplegeneric==0.8.1
 #sitemap==0.11
