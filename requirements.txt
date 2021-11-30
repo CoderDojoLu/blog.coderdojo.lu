@@ -23,10 +23,8 @@ Markdown==2.6.6
 MarkupSafe==0.23
 matplotlib==1.5.1
 #mercurial==3.7.3
-muttils==1.3+18.387c22038a37
 #notmuch==0.21
 numpy==1.16.0
-paramiko==1.16.0
 paramiko==2.4.2
 pathlib2==2.1.0
 path.py==8.1.2
@@ -37,9 +35,7 @@ pdfrw==0.2
 pelican==3.6.3
 pexpect==4.0.1
 pickleshare==0.7.2
-Pillow==3.2.0
 Pillow==7.1.0
-pkg-resources==0.0.0
 ptyprocess==0.5.1
 #py3minepi==0.0.1
 pyasn1==0.4.5
