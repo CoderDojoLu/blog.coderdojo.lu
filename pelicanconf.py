@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-AUTHOR = u'CodeClubLu'
-SITENAME = u'CoderDojoLu'
+AUTHOR = 'CodeClubLu'
+SITENAME = 'CoderDojoLu'
 SITEURL = 'https://blog.coderdojo.lu'
 
 PLUGIN_PATHS = ["plugins", "/Users/steve/Desktop/code/pelican-plugins"]
@@ -17,7 +13,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Luxembourg'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 DEFAULT_DATE = 'fs'
 
 TYPOGRIFY = True
@@ -42,13 +38,14 @@ SITEMAP = {
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('CodeClubLu', 'http://codeclub.lu/'),
         ('CoderDojo Foundation','http://coderdojo.org'),)
 
 # Social widget
-
 # Use this with standard themes
 #SOCIAL = (('CoderDojo on TW', 'https://twitter.com/CoderDojoLu'),
 #         ('CoderDojo on FB','https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128'),
@@ -72,10 +69,17 @@ DISPLAY_PAGES_ON_MENU = "True"
 
 DEFAULT_CATEGORY = ('welcome')
 
-MD_EXTENSIONS = ['codehilite','extra']
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
 MARKUP = ('md')
 
-COPYRIGHT = 'Public Domain, 2015'
+COPYRIGHT = 'Public Domain, 2021'
 #LOGOTEXT = 'Hack4Kids'
 #LOGOIMAGE = '/images/Logo_Hack4Kids_2014_v3.gif'
 #PROFILE_IMAGE_URL = '/images/Logo_Hack4Kids_2014_v3.gif'
