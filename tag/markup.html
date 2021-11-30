@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="CoderDojoLu, ">
+
+    <title>CoderDojoLu - markup</title>
+
+    <link rel="stylesheet" href="https://blog.coderdojo.lu/theme/css/normalize.css" />
+    <link rel="stylesheet" href="https://blog.coderdojo.lu/theme/css/foundation.min.css" />
+    <link rel="stylesheet" href="https://blog.coderdojo.lu/theme/css/style.css" />
+    <link rel="stylesheet" href="https://blog.coderdojo.lu/theme/css/pygments.css" />
+    <link rel="stylesheet" href="https://blog.coderdojo.lu/theme/css/emojify.min.css" type="text/css" />
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+    <script src="https://blog.coderdojo.lu/theme/js/vendor/custom.modernizr.js"></script>
+    <script src="https://blog.coderdojo.lu/theme/js/emojify.js"></script>
+    <script src="https://blog.coderdojo.lu/theme/js/jquery.min.js"></script>
+    <script src="https://blog.coderdojo.lu/theme/js/jquery.fitvids.js"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $("#thing-with-videos").fitVids();
+  });
+</script>
+</head>
+
+<body>
+
+<!-- Nav Bar -->
+<nav>
+<div class="top-bar">
+<div class="row">
+    <div class="large-9 large-centered columns">
+	    <h1><img src="/images/yinYang-white-44.png"><a href=" https://blog.coderdojo.lu">CoderDojoLu(xembourg)</a></h1>
+    </div>
+</div>
+</div>
+
+<!-- Show menu items and pages -->
+<div class="row">
+<div class="large-9 columns">
+    <ul class="button-group navigation">
+
+    </ul>
+</div>
+</div>
+</nav>
+<!-- End Nav -->
+
+
+<!-- Main Page Content and Sidebar -->
+<div class="row">
+
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+        
+        
+
+            <article>
+                <a href="https://blog.coderdojo.lu/math-ml.html"><h3 class="article-title">MathML? Good Idea&nbsp;:)</h3></a>
+<h6 class="subheader" title="2014-08-22T07:20:00+02:00">Fri 22 August 2014
+</h6>
+
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"> 
+  <mrow>
+    <mi>x</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>&#x2212;</mo>
+        <mi>b</mi>
+        <mo>&#xB1;</mo>
+        <msqrt>
+          <mrow>
+            <msup>
+              <mi>b</mi>
+              <mn>2</mn>
+            </msup>
+            <mo>&#x2212;</mo>
+            <mn>4</mn>
+            <mi>a</mi>
+            <mi>c</mi>
+          </mrow>
+        </msqrt>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <mi>a</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
+
+<p>See the above, this is all MathML Magic and when we take a look at the source, plain&nbsp;text:</p>
+<div class="highlight"><pre><span></span><code><span class="nt">&lt;math</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.w3.org/1998/Math/MathML&quot;</span> <span class="na">display=</span><span class="s">&quot;block&quot;</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;mrow&gt;</span>
+    <span class="nt">&lt;mi&gt;</span>x<span class="nt">&lt;/mi&gt;</span>
+    <span class="nt">&lt;mo&gt;</span>=<span class="nt">&lt;/mo&gt;</span>
+    <span class="nt">&lt;mfrac&gt;</span>
+      <span class="nt">&lt;mrow&gt;</span>
+        <span class="nt">&lt;mo&gt;</span><span class="ni">&amp;#x2212;</span><span class="nt">&lt;/mo&gt;</span>
+        <span class="nt">&lt;mi&gt;</span>b<span class="nt">&lt;/mi&gt;</span>
+        <span class="nt">&lt;mo&gt;</span><span class="ni">&amp;#xB1;</span><span class="nt">&lt;/mo&gt;</span>
+        <span class="nt">&lt;msqrt&gt;</span>
+          <span class="nt">&lt;mrow&gt;</span>
+            <span class="nt">&lt;msup&gt;</span>
+              <span class="nt">&lt;mi&gt;</span>b<span class="nt">&lt;/mi&gt;</span>
+              <span class="nt">&lt;mn&gt;</span>2<span class="nt">&lt;/mn&gt;</span>
+            <span class="nt">&lt;/msup&gt;</span>
+            <span class="nt">&lt;mo&gt;</span><span class="ni">&amp;#x2212;</span><span class="nt">&lt;/mo&gt;</span>
+            <span class="nt">&lt;mn&gt;</span>4<span class="nt">&lt;/mn&gt;</span>
+            <span class="nt">&lt;mi&gt;</span>a<span class="nt">&lt;/mi&gt;</span>
+            <span class="nt">&lt;mi&gt;</span>c<span class="nt">&lt;/mi&gt;</span>
+          <span class="nt">&lt;/mrow&gt;</span>
+        <span class="nt">&lt;/msqrt&gt;</span>
+      <span class="nt">&lt;/mrow&gt;</span>
+      <span class="nt">&lt;mrow&gt;</span>
+        <span class="nt">&lt;mn&gt;</span>2<span class="nt">&lt;/mn&gt;</span>
+        <span class="nt">&lt;mi&gt;</span>a<span class="nt">&lt;/mi&gt;</span>
+      <span class="nt">&lt;/mrow&gt;</span>
+    <span class="nt">&lt;/mfrac&gt;</span>
+  <span class="nt">&lt;/mrow&gt;</span>
+<span class="nt">&lt;/math&gt;</span>
+</code></pre></div>
+
+<p>Yeah, quite complex, let us take the amazing <a href="https://en.wikipedia.org/wiki/Pythagorean_theorem">Pythagorean theorem</a>:</p>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"> 
+  <mrow>
+    <msup><mi>a</mi><mn>2</mn></msup>
+    <mo>+</mo>
+    <msup><mi>b</mi><mn>2</mn></msup>
+    <mo>=</mo>
+    <msup><mi>c</mi><mn>2</mn></msup>
+  </mrow>
+</math>
+
+<p>The code would look like&nbsp;this:</p>
+<div class="highlight"><pre><span></span><code><span class="nt">&lt;math</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.w3.org/1998/Math/MathML&quot;</span> <span class="na">display=</span><span class="s">&quot;block&quot;</span><span class="nt">&gt;</span> 
+  <span class="nt">&lt;mrow&gt;</span>
+    <span class="nt">&lt;msup&gt;&lt;mi&gt;</span>a<span class="nt">&lt;/mi&gt;&lt;mn&gt;</span>2<span class="nt">&lt;/mn&gt;&lt;/msup&gt;</span>
+    <span class="nt">&lt;mo&gt;</span>+<span class="nt">&lt;/mo&gt;</span>
+    <span class="nt">&lt;msup&gt;&lt;mi&gt;</span>b<span class="nt">&lt;/mi&gt;&lt;mn&gt;</span>2<span class="nt">&lt;/mn&gt;&lt;/msup&gt;</span>
+    <span class="nt">&lt;mo&gt;</span>=<span class="nt">&lt;/mo&gt;</span>
+    <span class="nt">&lt;msup&gt;&lt;mi&gt;</span>c<span class="nt">&lt;/mi&gt;&lt;mn&gt;</span>2<span class="nt">&lt;/mn&gt;&lt;/msup&gt;</span>
+  <span class="nt">&lt;/mrow&gt;</span>
+<span class="nt">&lt;/math&gt;</span>
+</code></pre></div>
+
+<p>If you want more examples <a href="http://www.w3.org/TR/MathML/chapter1.html#intro.example" target="_blank">click here</a> for the <a href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium" target="_blank"><span class="caps">W3C</span></a>&nbsp;ones.</p>
+<p>Stay :yin_yang: and keep coding&nbsp;:)</p><p class="subheader">Category: <a href="https://blog.coderdojo.lu/category/math.html">math</a>
+
+    Tagged: 
+    <a href="https://blog.coderdojo.lu/tag/math.html">math </a>
+    <a href="https://blog.coderdojo.lu/tag/web.html">web </a>
+    <a href="https://blog.coderdojo.lu/tag/html.html">html </a>
+    <a href="https://blog.coderdojo.lu/tag/markup.html">markup </a>
+    <a href="https://blog.coderdojo.lu/tag/mathml.html">mathml </a>
+    <a href="https://blog.coderdojo.lu/tag/xml.html">xml </a>
+</p>
+
+
+
+            </article>
+
+<div class="pagination-centered">
+<h6 class="subheader">Page 1 of 1</h6>
+
+<p>
+
+</p>
+</div>
+
+
+
+            <!-- /#posts-list -->
+
+    </div>
+    <!-- End Main Content -->
+
+    <!-- Sidebar -->
+    <aside class="large-3 columns">
+        <h5 class="sidebar-title">Site</h5>
+        <ul class="side-nav">
+            <li><a href="https://blog.coderdojo.lu/archives.html">Archives</a>
+            <li><a href="https://blog.coderdojo.lu/tags.html">Tags</a>
+        </ul>
+
+        <h5 class="sidebar-title">Categories</h5>
+        <ul class="side-nav">
+            <li><a href="https://blog.coderdojo.lu/category/hackathon.html">hackathon</a></li>
+            <li><a href="https://blog.coderdojo.lu/category/join.html">join</a></li>
+            <li><a href="https://blog.coderdojo.lu/category/math.html">math</a></li>
+            <li><a href="https://blog.coderdojo.lu/category/popup.html">popup</a></li>
+            <li><a href="https://blog.coderdojo.lu/category/welcome.html">welcome</a></li>
+        </ul>
+
+        <h5 class="sidebar-title">Links</h5>
+        <ul class="side-nav">
+            <li><a href="http://codeclub.lu/">CodeClubLu</a></li>
+            <li><a href="http://coderdojo.org">CoderDojo Foundation</a></li>
+        </ul>
+
+        <h5 class="sidebar-title">Social</h5>
+        <ul class="side-nav">
+        <li>
+                        <a href="https://twitter.com/CoderDojoLu">
+                            <i class="fa fa-twitter-square fa-lg">CoderDojo on TW</i>
+                        </a> </li>
+        <li>
+                        <a href="https://www.facebook.com/pages/CoderDojo-Luxembourg/1494650000781128">
+                            <i class="fa fa-facebook-square fa-lg">CoderDojo on FB</i>
+                        </a> </li>
+        <li>
+                        <a href="https://twitter.com/CodeClubLux">
+                            <i class="fa fa-twitter-square fa-lg">CodeClub on TW</i>
+                        </a> </li>
+        <li>
+                        <a href="https://www.facebook.com/codeclub.lu">
+                            <i class="fa fa-facebook-square fa-lg">CodeClub on FB</i>
+                        </a> </li>
+        </ul>
+    </aside> <!-- End Sidebar -->
+
+</div> <!-- End Main Content and Sidebar -->
+
+
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+                              <p>CoderDojoLu by CodeClubLu</p>
+            </div>
+            </div>
+    </div>
+</footer>
+<script>
+         emojify.setConfig({
+                 emoticons_enabled: true,
+                 people_enabled: true,
+                 img_dir: '/images/emoji',
+                 nature_enabled: true,
+                 objects_enabled: true,
+                 places_enabled: true,
+                 symbols_enabled: true
+         });
+         emojify.run();
+</script>
