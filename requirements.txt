@@ -24,7 +24,7 @@ MarkupSafe==0.23
 matplotlib==1.5.1
 #mercurial==3.7.3
 #notmuch==0.21
-numpy==1.16.0
+numpy==1.21.0
 paramiko==2.4.2
 pathlib2==2.1.0
 path.py==8.1.2
