@@ -14,7 +14,7 @@ Fabric==1.11.1
 feedgenerator==1.8
 gnureadline==6.3.3
 gravatar==0.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.8
 ipython==7.16.3
 ipython-genutils==0.1.0
