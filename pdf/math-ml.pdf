@@ -1,0 +1,434 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Symbol /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Pythagorean_theorem)
+>> /Border [ 0 0 0 ] /Rect [ 163.9529 418.7229 214.4369 426.5979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.w3.org/TR/MathML/chapter1.html#intro.example)
+>> /Border [ 0 0 0 ] /Rect [ 122.2154 295.2229 144.3861 303.0979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
+>> /Border [ 0 0 0 ] /Rect [ 162.1889 295.2229 173.8544 303.0979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author () /CreationDate (D:20220725154832-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220725154832-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (MathML? Good Idea :\)) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 1 /Kids [ 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Length 8528
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 147.0242 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (MathML? Good Idea :\)) Tj T* -147.0242 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2014-08-22 07:20:00) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 680.1486 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 55.0935 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (x = ) Tj /F4 5.25 Tf 7.875 TL (-) Tj /F1 5.25 Tf 7.875 TL ( b \261 b 2 ) Tj /F4 5.25 Tf 7.875 TL (-) Tj /F1 5.25 Tf 7.875 TL ( 4 a c 2 a) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 665.0236 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 209.2283 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (See the above, this is all MathML Magic and when we take a look at the source, plain text:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 429.3986 cm
+q
+1 1 1 rg
+n 0 0 481.2283 230.375 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 225.5962 204.75 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 217.7212 22.05 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 209.8462 40.95 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 201.9712 40.95 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 194.0962 31.5 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 186.2212 34.65 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 178.3462 75.6 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 170.4712 53.55 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 162.5962 69.3 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 154.7212 44.1 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 146.8462 47.25 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 138.9712 53.55 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 131.0962 72.45 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 123.2212 72.45 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 115.3462 56.7 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 107.4712 88.2 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 99.59619 66.15 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 91.72119 66.15 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 83.84619 66.15 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 75.97119 50.4 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 68.09619 47.25 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 60.22119 37.8 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 52.34619 34.65 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 44.47119 53.55 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 36.59619 53.55 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 28.72119 37.8 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 20.84619 34.65 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 12.97119 25.2 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 5.096188 22.05 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 227.0728 Tm 7.875 TL /F5 5.25 Tf 0 0 0 rg (<) Tj (math) Tj ( ) Tj (xmlns=) Tj (") Tj (http://www.w3.org/1998/Math/MathML) Tj (") Tj ( ) Tj (display=) Tj (") Tj (block) Tj (") Tj (>) Tj  T*  ( ) Tj (<) Tj (mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (mi) Tj (>) Tj (x) Tj (<) Tj (/mi) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (mo) Tj (>) Tj (=) Tj (<) Tj (/mo) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (mfrac) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mo) Tj (>) Tj (&) Tj (#x2212;) Tj (<) Tj (/mo) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mi) Tj (>) Tj (b) Tj (<) Tj (/mi) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mo) Tj (>) Tj (&) Tj (#xB1;) Tj (<) Tj (/mo) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (msqrt) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (msup) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mi) Tj (>) Tj (b) Tj (<) Tj (/mi) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mn) Tj (>) Tj (2) Tj (<) Tj (/mn) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (/msup) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mo) Tj (>) Tj (&) Tj (#x2212;) Tj (<) Tj (/mo) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mn) Tj (>) Tj (4) Tj (<) Tj (/mn) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mi) Tj (>) Tj (a) Tj (<) Tj (/mi) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mi) Tj (>) Tj (c) Tj (<) Tj (/mi) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (/mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (/msqrt) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (/mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mn) Tj (>) Tj (2) Tj (<) Tj (/mn) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (mi) Tj (>) Tj (a) Tj (<) Tj (/mi) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj ( ) Tj ( ) Tj (<) Tj (/mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (/mfrac) Tj (>) Tj  T*  ( ) Tj (<) Tj (/mrow) Tj (>) Tj  T* (<) Tj (/math) Tj (>) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 414.2736 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 157.8727 6.25 re f*
+.492188 w
+0 0 1 RG
+n 105.9292 5.121125 m 156.4133 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Yeah, quite complex, let us take the amazing ) Tj 0 0 1 rg (Pythagorean theorem) Tj 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 399.1486 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 29.19 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (a) Tj (2 + b) Tj (2 = c) Tj (2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 384.0236 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 68.57025 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The code would look like this:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 305.8986 cm
+q
+1 1 1 rg
+n 0 0 481.2283 72.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 68.09619 204.75 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 60.22119 22.05 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 52.34619 113.4 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 44.47119 40.95 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 36.59619 113.4 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 28.72119 40.95 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 20.84619 113.4 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 12.97119 25.2 6.25 re f*
+.492188 w
+1 1 1 rg
+n 0 5.096187 22.05 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 69.57275 Tm 7.875 TL /F5 5.25 Tf 0 0 0 rg (<) Tj (math) Tj ( ) Tj (xmlns=) Tj (") Tj (http://www.w3.org/1998/Math/MathML) Tj (") Tj ( ) Tj (display=) Tj (") Tj (block) Tj (") Tj (>) Tj  T*  ( ) Tj (<) Tj (mrow) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (msup) Tj (>) Tj (<) Tj (mi) Tj (>) Tj (a) Tj (<) Tj (/mi) Tj (>) Tj (<) Tj (mn) Tj (>) Tj (2) Tj (<) Tj (/mn) Tj (>) Tj (<) Tj (/msup) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (mo) Tj (>) Tj (+) Tj (<) Tj (/mo) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (msup) Tj (>) Tj (<) Tj (mi) Tj (>) Tj (b) Tj (<) Tj (/mi) Tj (>) Tj (<) Tj (mn) Tj (>) Tj (2) Tj (<) Tj (/mn) Tj (>) Tj (<) Tj (/msup) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (mo) Tj (>) Tj (=) Tj (<) Tj (/mo) Tj (>) Tj  T*  ( ) Tj ( ) Tj ( ) Tj (<) Tj (msup) Tj (>) Tj (<) Tj (mi) Tj (>) Tj (c) Tj (<) Tj (/mi) Tj (>) Tj (<) Tj (mn) Tj (>) Tj (2) Tj (<) Tj (/mn) Tj (>) Tj (<) Tj (/msup) Tj (>) Tj  T*  ( ) Tj (<) Tj (/mrow) Tj (>) Tj  T* (<) Tj (/math) Tj (>) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 290.7736 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 130.1318 6.25 re f*
+.492188 w
+0 0 1 RG
+n 64.19175 5.121125 m 86.3625 5.121125 l S
+n 104.1653 5.121125 m 115.8307 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you want more examples ) Tj 0 0 1 rg (click here) Tj 0 0 0 rg ( for the ) Tj 0 0 1 rg (W3C) Tj 0 0 0 rg ( ones.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 275.6486 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 80.5455 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Stay :yin_yang: and keep coding :\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+15 0 obj
+<<
+/Nums [ 0 16 0 R ]
+>>
+endobj
+16 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000360 00000 n 
+0000000472 00000 n 
+0000000549 00000 n 
+0000000654 00000 n 
+0000000855 00000 n 
+0000001062 00000 n 
+0000001269 00000 n 
+0000001505 00000 n 
+0000001594 00000 n 
+0000001873 00000 n 
+0000001934 00000 n 
+0000010514 00000 n 
+0000010555 00000 n 
+trailer
+<<
+/ID 
+[<bdfb49ceadc86056887a946ae6b530fd><bdfb49ceadc86056887a946ae6b530fd>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 17
+>>
+startxref
+10589
+%%EOF
