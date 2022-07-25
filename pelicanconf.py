@@ -2,18 +2,18 @@ AUTHOR = 'CodeClubLu'
 SITENAME = 'CoderDojoLu'
 SITEURL = 'https://blog.coderdojo.lu'
 
-PLUGIN_PATHS = ["plugins", "/Users/steve/Desktop/code/pelican-plugins"]
-PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "render_math"]
-#PLUGINS = ["assets", "liquid_tags", "sitemap", "gravatar", "pdf", "render_math"]
+#PLUGIN_PATHS = ['plugins', '/Users/steve/Desktop/code/pelican-plugins']
+#PLUGINS = ['webassets', 'liquid_tags', 'sitemap', 'gravatar', 'pdf', 'render_math']
+PLUGINS = ['webassets', 'sitemap', 'avatar', 'pdf', 'render_math']
 
 # Make sure to use the zurb-F5-basic theme in THIS directory, it has emoji and video support
-THEME = "zurb-F5-basic"
+THEME = 'zurb-F5-basic'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Luxembourg'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'fr'
 DEFAULT_DATE = 'fs'
 
 TYPOGRIFY = True
@@ -42,8 +42,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('CodeClubLu', 'http://codeclub.lu/'),
-        ('CoderDojo Foundation','http://coderdojo.org'),)
+LINKS = (('CodeClubLu', 'https://codeclub.lu/'),
+        ('CoderDojo Foundation','https://coderdojo.org'),)
 
 # Social widget
 # Use this with standard themes

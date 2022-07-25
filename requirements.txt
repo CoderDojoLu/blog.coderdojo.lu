@@ -4,5 +4,6 @@ pelican-pdf
 pelican-webassets
 pelican-sitemap
 pelican-render-math
+ghp-import
 markdown
 ipython
