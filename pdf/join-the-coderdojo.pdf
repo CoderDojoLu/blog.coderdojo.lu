@@ -24,28 +24,28 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)
->> /Border [ 0 0 0 ] /Rect [ 58.02362 646.2416 66.77537 654.1166 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 58.02362 657.1485 66.77537 665.0235 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://wiki.hackerspace.lu/wiki/Location)
->> /Border [ 0 0 0 ] /Rect [ 160.4511 600.8666 239.5266 608.7416 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 123.3914 611.7735 172.1166 619.6485 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com)
->> /Border [ 0 0 0 ] /Rect [ 58.02362 524.6166 72.32462 532.4916 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 90.99362 543.3985 105.2946 551.2735 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:info@coderdojo.lu)
->> /Border [ 0 0 0 ] /Rect [ 209.0241 494.3666 258.6314 502.2416 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 198.9494 513.1485 248.5566 521.0235 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
@@ -65,8 +65,8 @@ endobj
 endobj
 11 0 obj
 <<
-/Author () /CreationDate (D:20220725155641-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220725155641-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Joignez-nous au CoderDojo) /Trapped /False
+/Author () /CreationDate (D:20220725155843-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220725155843-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Komm an den CoderDojo) /Trapped /False
 >>
 endobj
 12 0 obj
@@ -76,7 +76,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Dest [ 9 0 R /Fit ] /Parent 12 0 R /Title (CoderDojo Luxembourg est le seul Coding Club au Luxembourg o\371 tout le monde peut apprendre \340 programmer un ordinateur de 6h \340 8h du soir, gratuitement, chaque semaine)
+/Dest [ 9 0 R /Fit ] /Parent 12 0 R /Title (CoderDojo L\353tzebuerg ass d\351i eenzeg Initiativ wou s de Gratis Programm\351iere kanns l\351ieren vun 6 Owes bis 8 an dat all Woch)
 >>
 endobj
 14 0 obj
@@ -86,14 +86,14 @@ endobj
 endobj
 15 0 obj
 <<
-/Length 5578
+/Length 5629
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 57.02362 741.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 128.9642 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (Joignez-nous au CoderDojo) Tj T* -128.9642 0 Td ET
+BT 1 0 0 1 0 4 Tm 137.0142 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (Komm an den CoderDojo) Tj T* -137.0142 0 Td ET
 Q
 Q
 q
@@ -112,7 +112,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-14 18:56:00) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2022-07-25 15:50:00) Tj T* ET
 Q
 Q
 q
@@ -120,28 +120,25 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 658.9386 cm
+1 0 0 1 57.02362 669.8455 cm
 q
 1 1 1 rg
-n 0 0 481.2283 23.81375 re f*
+n 0 0 481.2283 12.90687 re f*
 Q
 q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 16.54795 475.1398 8.27125 re f*
+n 0 5.641078 435.2134 8.27125 re f*
 .68168 w
-1 1 1 rg
-n 0 5.641078 132.9403 8.27125 re f*
-.68168 w
-BT 1 0 0 1 0 18.59299 Tm 10.90688 TL /F3 7.27125 Tf 0 0 0 rg (CoderDojo Luxembourg est le seul Coding Club au Luxembourg o) Tj (\371 tout le monde peut apprendre \340 programmer un ordinateur de 6h \340 8h) Tj T* (du soir, gratuitement, chaque semaine) Tj T* ET
+BT 1 0 0 1 0 7.686117 Tm 10.90688 TL /F3 7.27125 Tf 0 0 0 rg (CoderDojo L) Tj (\353) Tj (tzebuerg ass d) Tj (\351) Tj (i eenzeg Initiativ wou s de Gratis Programm) Tj (\351) Tj (iere kanns l) Tj (\351) Tj (ieren vun 6 Owes bis 8 an dat all Woch) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 641.7924 cm
+1 0 0 1 57.02362 652.6992 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -161,7 +158,7 @@ q
 Q
 Q
 q
-1 0 0 1 57.02362 626.6674 cm
+1 0 0 1 57.02362 637.5742 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -170,16 +167,16 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 4.628937 372.9338 6.25 re f*
+n 0 4.628937 410.8073 6.25 re f*
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (CoderDojo Luxembourg est destin) Tj (\351 aux jeunes de 9 \340 18 ans qui veulent d) Tj (\351) Tj (couvrir le monde quasi magique de la programmation, des technologies et bien plus.) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (CoderDojo L) Tj (\353) Tj (tzebuerg ass fir 9 bis 18 J) Tj (\344) Tj (reger d) Tj (\351) Tj (i entdecke w) Tj (\353) Tj (lle wat et heescht ee Computer ze Programm) Tj (\351) Tj (ieren a nieweb) Tj (\344) Tj (i nach d'Aktualit) Tj (\351) Tj (it aus der Technologie z' erliewen.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 611.5424 cm
+1 0 0 1 57.02362 622.4492 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -188,16 +185,16 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 4.628937 342.573 6.25 re f*
+n 0 4.628937 335.8687 6.25 re f*
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (On se retrouve chaque jeudi \(vacances inclues, car le code n'en conna) Tj (\356) Tj (t pas\) de 18:00 \340 20:00 ou plus tard pour les personnes en attente d'un bus.) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (All Donneschden \(inklusiv an der Vakanz, Code kennt keng Vakanz\) treffe mer eis vun 18:00 bis 20:00 oder m) Tj (\351) Tj (i sp) Tj (\351) Tj (id falls een op de Bus waart.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 596.4174 cm
+1 0 0 1 57.02362 607.3242 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -206,18 +203,72 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 4.628937 351.876 6.25 re f*
+n 0 4.628937 276.7695 6.25 re f*
 .492188 w
 0 0 1 RG
-n 102.4275 5.121125 m 181.503 5.121125 l S
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Rendez-nous visite \340 Bonnevoie au Level2, ) Tj 0 0 1 rg (cliquez ici pour une carte d) Tj (\351) Tj (taill) Tj (\351) Tj (e) Tj 0 0 0 rg (. L'entr) Tj (\351) Tj (e est derri) Tj (\350) Tj (re l'immeuble et la salle se trouve au deuxi) Tj (\350) Tj (me \351) Tj (tage.) Tj T* ET
+n 65.36775 5.121125 m 114.093 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Dat ganz ass zu Bouneweg ) Tj 0 0 1 rg (klick hei fir eng Kaart) Tj 0 0 0 rg (. Du muss hannert d'Gebai kommen an dann op den 2ten Stack goen.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 573.4174 cm
+1 0 0 1 57.02362 592.1992 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 377.6902 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Mir Konzentr) Tj (\351) Tj (ieren eis op d'Programm) Tj (\351) Tj (iere m) Tj (\344 hunn awer keng Angscht eis aktuell Ger) Tj (\344) Tj (ter wei de raspberry pi unzekucken oder eppes um 3D-Drocker ze testen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 577.0742 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 197.8515 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Den Dojo ass Z) Tj (\344) Tj (itlos a jidderee w) Tj (\344) Tj (ert seng eegen, eenzegaarteg, Kreatioun schafen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 561.9492 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 325.9305 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Virw) Tj (\353) Tj (sse g) Tj (\353) Tj (tt keent gebrauch fir matzemaachen. Br) Tj (\351) Tj (ngt de Virw) Tj (\353) Tj (tz mat fir eppes eemoleges ze entdecken, loosst eis Zesumme genial sinn.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 538.9492 cm
 q
 1 1 1 rg
 n 0 0 481.2283 17.75 re f*
@@ -226,78 +277,21 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 12.50394 471.4815 6.25 re f*
+n 0 12.50394 470.5312 6.25 re f*
 .492188 w
 1 1 1 rg
-n 0 4.628937 22.75875 6.25 re f*
-.492188 w
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (On se concentre principalement sur la programmation informatique mais n'avons pas peur de nous lancer dans les derniers d) Tj (\351) Tj (veloppement en hardware, comme le raspberry pi ou l'imprimante 3D qui est) Tj T* (sur place.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 57.02362 558.2924 cm
-q
-1 1 1 rg
-n 0 0 481.2283 9.875 re f*
-Q
-q
-1 0 0 1 1 -1 cm
-q
-1 1 1 rg
-n 0 4.628937 249.7897 6.25 re f*
-.492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Le dojo est un effort libre et sans date limite o) Tj (\371 chaque participant\(e\) va cr) Tj (\351) Tj (er son propre projet fantastique.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 57.02362 543.1674 cm
-q
-1 1 1 rg
-n 0 0 481.2283 9.875 re f*
-Q
-q
-1 0 0 1 1 -1 cm
-q
-1 1 1 rg
-n 0 4.628937 391.5607 6.25 re f*
-.492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Il n'est pas n) Tj (\351) Tj (cessaire d'avoir d) Tj (\351) Tj (j) Tj (\340 des bases en programmation avant de nous rejoindre. Ta curiosit) Tj (\351 et ton enthousiasme sont notre motivation, grandissons ensemble.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 57.02362 520.1674 cm
-q
-1 1 1 rg
-n 0 0 481.2283 17.75 re f*
-Q
-q
-1 0 0 1 1 -1 cm
-q
-1 1 1 rg
-n 0 12.50394 476.3483 6.25 re f*
-.492188 w
-1 1 1 rg
-n 0 4.628937 14.301 6.25 re f*
+n 0 4.628937 58.94175 6.25 re f*
 .492188 w
 0 0 1 RG
-n 0 5.121125 m 14.301 5.121125 l S
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Tout le monde peut ramener son laptop, pour ensuite continuer l'exercice \340 la maison. Mais beaucoup de gens utilise les laptops mis \340 disposition par le Dojo et bouge leur code soit sur une clef USB ou via) Tj T* 0 0 1 rg (github) Tj T* ET
+n 32.97 5.121125 m 47.271 5.121125 l S
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Du kanns d) Tj (\344) Tj (in eegene Laptop matbr) Tj (\351) Tj (ngen, dat erlaabt et Doheem weider ze experiment) Tj (\351) Tj (ieren. Awer d) Tj (\351) Tj (i meeschten notzen d'Laptoppen d) Tj (\351) Tj (i am Dojo sinn an huelen hier Code entweder mat engem USB) Tj T* (Stick oder via ) Tj 0 0 1 rg (github) Tj 0 0 0 rg ( mat.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 505.0424 cm
+1 0 0 1 57.02362 523.8242 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -306,16 +300,16 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 4.628937 423.4283 6.25 re f*
+n 0 4.628937 236.6333 6.25 re f*
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Les parents sont la bienvenue et peuvent profiter de notre espace de relaxation pour se d) Tj (\351) Tj (tendre et bouquiner pendant que les jeunes Ninja finissent leurs techniques sur les claviers.) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Elteren si W) Tj (\353) Tj (llkomm an eiser Chill-area wou een sech ausroue kann a liese bis den Dojo f) Tj (\344) Tj (erdeg ass.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 489.9174 cm
+1 0 0 1 57.02362 508.6992 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -324,18 +318,18 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 4.628937 200.6077 6.25 re f*
+n 0 4.628937 190.533 6.25 re f*
 .492188 w
 0 0 1 RG
-n 151.0005 5.121125 m 200.6077 5.121125 l S
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (En cas de besoin de d) Tj (\351) Tj (tails, n'h) Tj (\351) Tj (sitez pas de nous contacter sur ) Tj 0 0 1 rg (info_AT_coderdojo.lu) Tj T* ET
+n 140.9257 5.121125 m 190.533 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Falls m) Tj (\351) Tj (i Informatioune gew) Tj (\353) Tj (nscht si sch) Tj (\351) Tj (ckt eis ee mail op ) Tj 0 0 1 rg (info_AT_coderdojo.lu) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 57.02362 474.7924 cm
+1 0 0 1 57.02362 493.5742 cm
 q
 1 1 1 rg
 n 0 0 481.2283 9.875 re f*
@@ -344,9 +338,27 @@ q
 1 0 0 1 1 -1 cm
 q
 1 1 1 rg
-n 0 4.628937 266.553 6.25 re f*
+n 0 4.628937 177.408 6.25 re f*
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Nos efforts sont enti) Tj (\350) Tj (rement gratuits afin de permettre \340 tout le monde de s'affilier. Les donations sont bienvenues.) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Eis Efforten si Gratis an erm) Tj (\351) Tj (iglechen domadder jidderengem dob) Tj (\344) Tj (i ze sinn.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 57.02362 478.4492 cm
+q
+1 1 1 rg
+n 0 0 481.2283 9.875 re f*
+Q
+q
+1 0 0 1 1 -1 cm
+q
+1 1 1 rg
+n 0 4.628937 53.68125 6.25 re f*
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Spenden si W) Tj (\353) Tj (llkomm.) Tj T* ET
 Q
 Q
 q
@@ -379,16 +391,16 @@ xref
 0000001206 00000 n 
 0000001447 00000 n 
 0000001553 00000 n 
-0000001836 00000 n 
-0000001910 00000 n 
-0000002153 00000 n 
-0000002213 00000 n 
-0000007843 00000 n 
-0000007884 00000 n 
+0000001832 00000 n 
+0000001906 00000 n 
+0000002108 00000 n 
+0000002168 00000 n 
+0000007849 00000 n 
+0000007890 00000 n 
 trailer
 <<
 /ID 
-[<0d96306f5a25b0ef67abebfae58f7b92><0d96306f5a25b0ef67abebfae58f7b92>]
+[<0eb22774db4ebf1e77033f8309225bea><0eb22774db4ebf1e77033f8309225bea>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 11 0 R
@@ -396,5 +408,5 @@ trailer
 /Size 18
 >>
 startxref
-7918
+7924
 %%EOF
